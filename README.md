@@ -1,7 +1,7 @@
 
 <h1 align="center">Hi 👋, I'm Melissa Sofia</h1>
 <h3 align="center">A passionate Computer Science Student</h3>
-<img align="right" alt="Coding" width="200" src="https://media1.tenor.com/m/w3APLkMuTX0AAAAC/computer-work.gif"
+<img align="right" alt="Coding" width="300" src="https://media1.tenor.com/m/w3APLkMuTX0AAAAC/computer-work.gif"
 
 
 
