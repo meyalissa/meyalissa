@@ -1,5 +1,5 @@
 
-![Melissa's GitHub Banner](https://i.pinimg.com/originals/10/a0/0f/10a00f1a8907aac0bb9c21bc3664cfb0.jpg)
+<img src="https://i.pinimg.com/originals/10/a0/0f/10a00f1a8907aac0bb9c21bc3664cfb0.jpg" width= "100%" height="250">
 
 <h1 align="center">Hi 👋, I'm Melissa Sofia</h1>
 <h3 align="center">A passionate Computer Science Student</h3>
