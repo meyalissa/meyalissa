@@ -9,7 +9,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=meyalissa&label=Profile%20views&color=0e75b6&style=flat" alt="meyalissa" /> </p>
 
-- 🔭 I’m currently working on **something cool**
+- 🔭 I’m currently working on **EcoXchange System**
 
 - 🌱 I’m currently learning **how to be a good software developer**
 
