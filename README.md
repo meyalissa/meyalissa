@@ -2,14 +2,14 @@
 <img src="https://i.pinimg.com/originals/10/a0/0f/10a00f1a8907aac0bb9c21bc3664cfb0.jpg" width= "100%" height="249">
 
 <h1 align="center">Hi 👋, I'm Melissa Sofia</h1>
-<h3 align="center">A passionate Computer Science Student</h3>
+<h3 align="center">Studying Netcentric Computing 🧑‍💻</h3>
 <img align="right" alt="Coding" width="300" src="https://media1.tenor.com/m/w3APLkMuTX0AAAAC/computer-work.gif"
 
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=meyalissa&label=Profile%20views&color=0e75b6&style=flat" alt="meyalissa" /> </p>
 
-- 🔭 I’m currently working on **PedalPals System**
+- ☕ Work best with a cup of iced matcha
 
 - 📫 How to reach me **melissa.sofia0204@gmail.com**
 
