@@ -11,7 +11,7 @@
 
 ---
 
-### A little about me
+### ☁️ A little about me
 - 🎓 Currently pursuing my Bachelor's in Netcentric Computing  
 - 🧠 Obsessed with organizing the unorganizable
 - 🛠️ Breaking stuff on purpose (QA life)
