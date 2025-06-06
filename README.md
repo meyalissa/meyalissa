@@ -1,7 +1,7 @@
 <img src="https://i.pinimg.com/originals/10/a0/0f/10a00f1a8907aac0bb9c21bc3664cfb0.jpg" width="100%" height="249">
 
 <h1 align="center">Hi there! 👋 I'm Melissa Sofia</h1>
-<h3 align="center">Bachelor of Computer Science (Hons.) in Netcentric Computing 💻 | Part-time QA @ Pandai</h3>
+<h3 align="center">Studying Netcentric Computing 🧑‍💻</h3>
 
 <img align="right" alt="Coding" width="300" src="https://media1.tenor.com/m/w3APLkMuTX0AAAAC/computer-work.gif">
 
@@ -11,12 +11,12 @@
 
 ---
 
-### ☕ A little about me
+### A little about me
 - 🎓 Currently pursuing my Bachelor's in Netcentric Computing  
-- 🧪 Working part-time as a QA Engineer @ Pandai — where I make sure everything runs smoothly before users ever see it  
-- 🧠 I love learning about systems that scale and how things work behind the scenes  
-- ☁️ Obsessed with UI/UX, automation, and occasionally... iced matcha 🍵  
-- 🛠️ Breaking stuff on purpose (QA life) — and fixing it smarter
+- 🧠 Obsessed with organizing the unorganizable
+- 🛠️ Breaking stuff on purpose (QA life)
+- ☕ Work best with a cup of iced matcha  
+
 
 ---
 
