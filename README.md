@@ -61,9 +61,9 @@ const melissa = {
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=meyalissa&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&text_color=FFF&langs_count=8"/>
 </div>
 
-<div align="center">
+<!-- <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=meyalissa&theme=radical&hide_border=true&background=0D1117&ring=F85D7F&fire=F8D866&currStreakLabel=FFF" alt="GitHub Streak"/>
-</div>
+</div> -->
 
 ---
 
