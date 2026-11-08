@@ -9,7 +9,7 @@
 ### 🎓 Studying Netcentric Computing | 🧪 QA Enthusiast | ☕ Matcha Lover
 
 [![Profile Views](https://komarev.com/ghpvc/?username=meyalissa&label=Profile%20Views&color=blueviolet&style=for-the-badge)](https://github.com/meyalissa)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/melissa%20sofia)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](www.linkedin.com/in/melissa-sofia)
 [![Email](https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail)](mailto:melissa.sofia0204@gmail.com)
 
 </div>
